@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EstherDhiramo
 - 👀 I’m interested in software engineering and front-end developing.
 - 💞️ I’m looking to collaborate on any projects on software developing and front-end designing.
-- 🌱 I’m also learning NodeJs, React and Swift.
+- 🌱 I’m also learning NodeJs, React, PHP and Swift.
 - 💬 Ask me questions about HTML, CSS, JavaScript and Python.
 - 📫 How to reach me, through my email @este.tech17@gmail.com or @essy__19 on instagram.
 <!---
