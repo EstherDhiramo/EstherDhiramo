@@ -4,6 +4,7 @@
 - 🌱 I’m also learning NodeJs, React, PHP and Swift.
 - 💬 Ask me questions about HTML, CSS, JavaScript and Python.
 - 📫 How to reach me, through my email @este.tech17@gmail.com or @essy__19 on instagram.
+- 💡 Fun fact: I love playing and watching football.
 <!---
 EstherDhiramo/EstherDhiramo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
